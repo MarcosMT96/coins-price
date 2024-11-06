@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter import messagebox
 import os
 
+# prueba git
 
 def download_prices():
     # Diccionario de criptomonedas con sus identificadores en CoinGecko
